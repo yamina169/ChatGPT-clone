@@ -7,12 +7,12 @@
 }
 .heading {
  font-family: 'Times New Roman', Times, serif;
- font-size: 50px;
+ font-size: 40px;
 }
 
 .grid-main {
   display: grid;
-  grid-template-columns:400px 400px;
+  grid-template-columns:450px 450px;
   
   gap: 15px;
   margin-top: 65px;
