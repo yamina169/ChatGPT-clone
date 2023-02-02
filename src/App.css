@@ -12,7 +12,8 @@
 
 .grid-main {
   display: grid;
-  grid-template-columns: 450px 450px;
+  grid-template-columns: 250px 250px;
+  
   gap: 15px;
   margin-top: 65px;
   justify-content: center;
