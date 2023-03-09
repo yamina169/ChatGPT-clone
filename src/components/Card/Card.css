@@ -1,0 +1,19 @@
+.card{
+    background-color: hsl(0, 0%, 100%);
+height: 180px;
+width: 37%;
+border-radius: 15px;
+border: none;
+position: fixed;
+top: 27%;
+left: 55%;
+transform: translate(-50%, -50%);
+}
+.gauche{
+    height: 80px;
+    margin-left: -65%;
+
+}
+.droite{
+    margin-left: 60%;
+}

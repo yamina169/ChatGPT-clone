@@ -1,0 +1,92 @@
+.modal-background {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    z-index: 1;
+  }
+  
+  .modal-content {
+    position: fixed;
+    top: 50%;
+    left: 55%;
+    transform: translate(-50%, -50%);
+    z-index: 2;
+  }
+  .header{
+   
+    display: flex;
+
+   
+  }
+  
+  .topic{
+   
+    width: 20%;
+    height: 40px;
+    margin-top: 2%;
+    margin-left:22% ;
+    margin-right:5% ;
+    border: none;
+    outline: none;
+    border: #23366d;
+    
+    border-radius: 5px;
+    text-align: center;
+     color: #23366d;
+  }
+.bi-chevron-left{
+ 
+  color: #23366d;
+  margin-left: 2%;
+}
+.pubimage{
+  background-size: cover;
+  background-color:rgb(232, 230, 228) ;
+  background-repeat: no-repeat;
+  border-radius: 10px;
+  background-position: center;
+  width: 60%; ;
+  height: 60%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  position: relative;
+  margin: auto; /* Ajout de la propriété margin */
+}
+
+.image-inpt{
+  opacity:0px;
+  position: absolute;
+  top:0px;
+  left:0px;
+  bottom:0px;
+  right:0px;
+  width: 100%;
+  height: 100%;
+  cursor: pointer;
+}
+.upload-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: #23366d;
+}
+
+.upload-label {
+  margin-bottom: 10px;
+}
+.imginpt{
+  margin-top: 2%;
+  height: 20%;
+  width: 90%;
+  border: none;
+  outline: none;
+  
+}
+
+

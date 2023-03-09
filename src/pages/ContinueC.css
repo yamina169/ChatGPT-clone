@@ -1,0 +1,68 @@
+.center{
+    background-color: rgb(174, 129, 129);
+    width: 400px;
+    height: 500px;
+    text-align: center;
+    position: absolute;
+   top: 50%;
+   left: 50%;
+   transform: translate(-50%, -50%);
+   border-radius: 15px;
+   margin-top: 40px;
+   
+}
+.inpt{
+   
+    width: 350px;
+    height: 40px;
+
+
+}
+.btnc{height: 33px;
+    font-size: 13;
+    margin-top: 5px;
+    width:350px;
+    outline: none;
+    
+
+}
+.liste{
+    width: 400px;
+    
+    height: 35px;
+    color: grey;
+}
+.color{
+   
+color: whitesmoke;}
+.cercle{
+background-size: cover;
+background-color:#1D2C59 ;
+background-repeat: no-repeat;
+border-radius: 50%;
+background-position: center;
+width: 70px; ;
+height: 70px;
+display: flex;
+border-radius:50% ;
+justify-content: center;
+align-items: center;
+cursor: pointer;
+position: relative;
+
+}
+.upload-inpt{
+    opacity:0px;
+    position: absolute;
+    top:0px;
+    left:0px;
+    bottom:0px;
+    right:0px;
+    width: 100%;
+    height: 100%;
+    cursor: pointer;
+}
+
+
+
+  

@@ -1,0 +1,14 @@
+.man {
+	display: flex;
+}
+.input-otp{
+width:50px ;
+height:50px ;
+text-align: center;
+margin:18px ;
+border-radius: 5px;
+background-color: #d7d5d5;
+color: #1D2C59;
+
+
+}

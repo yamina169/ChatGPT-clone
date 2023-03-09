@@ -1,0 +1,56 @@
+.sidebar {
+    height: 100%;
+    width: 10%;
+    min-width: 200px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: white;
+    overflow-x: hidden;
+    padding-top: 20px;
+    margin-top: 57px;
+    padding-left: 13px;
+   
+  }
+  
+  .sidebar a {
+    display: block;
+    padding: 16px;
+    color: #23366d;
+    text-decoration: none;
+    font-weight: 600;
+    font-size:15px;
+    margin-left: 15px;
+    
+    
+  }
+  
+  .sidebar a:hover {
+   
+    color: #6d2323;
+  }
+  
+
+.icon1{
+   
+  margin-top: 4%;
+  width: 5px; 
+  margin-left: -5px; 
+  }
+
+.Logout{
+  display: flex;
+  margin-top: 10%;
+
+}
+
+
+.profil-sidebar{
+  background-color: #F0F2F4;
+  width: 93%;
+  border-radius: 15px;
+}
+
+
+
+	

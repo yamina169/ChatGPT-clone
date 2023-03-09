@@ -1,0 +1,19 @@
+.btn{
+   
+    width: 500px;
+    border-radius: 25px;
+    margin-top: 10px;
+    font-weight: bold;
+   
+
+
+}
+p{
+    color: #1D2C59;
+   
+    font-size: 12px;
+}
+a{
+    text-decoration: none;
+    font-size: 12px;
+}
